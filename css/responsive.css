@@ -1,0 +1,26 @@
+@media (min-width:200px) and (max-width:1200px) {
+    header h1{
+        font-size: 40px;
+    }
+    header p{
+        width: 90%;
+        font-size: 20px;
+    }
+    .one{
+        flex-wrap:wrap ;
+    }
+    .words{
+        width: 90%;
+        margin: auto;
+    }
+    .image{
+        width: 100%;
+    }
+    .image img{
+        width: 100%;
+    }
+    .container a{
+        width: 95%;
+        margin: auto;
+    }
+}
